@@ -9,11 +9,11 @@
     "layout": "PropTypes.string"
   },
   "defaultProps": {
-    "title": "Test uniqueness heba",
-    "titleColor": "#000",
+    "title": "Test-heba",
+    "titleColor": "#FFC300",
     "backgroundColor": "white",
     "layout": "hero",
-    "numberOfItems": 6,
+    "numberOfItems": 7,
     "textColor": "black",
     "heroImageBackgroundColor": "#2980b9",
     "thumbnailAlignment": "left"
