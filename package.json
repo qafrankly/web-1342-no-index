@@ -1,15 +1,15 @@
 
 
 {
-  "thumbnail": "https://wnow-modules.s3.amazonaws.com/icon_stroke_news_articlelist.svg",
-  "tag": "NEWS",
+  "thumbnail": "https://modules-qa.franklyinc.com/assets/Video/icon_stroke_media_video.svg",
+  "tag": "Heba",
   "affiliates":["WNOW"],
   "propTypes": {
     "title": "PropTypes.string",
     "layout": "PropTypes.string"
   },
   "defaultProps": {
-    "title": "Test uniqueness",
+    "title": "Test uniqueness heba",
     "titleColor": "#000",
     "backgroundColor": "white",
     "layout": "hero",
@@ -26,7 +26,7 @@
   },
   "FRN_resourceEndpoints": [
     {
-      "url": "",
+      "url": "http://wnow-dsys1.api.franklyinc.com/story/${id}/a?clienttype=container.json",
       "type": "json"
     }
   ]
