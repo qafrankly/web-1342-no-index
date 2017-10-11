@@ -1,5 +1,3 @@
-
-
 import React, { Component, PropTypes } from 'react';
 
 class RandomTest extends Component {
