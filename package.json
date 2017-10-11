@@ -2,8 +2,8 @@
 
 {
   "thumbnail": "https://modules-qa.franklyinc.com/assets/Video/icon_stroke_media_video.svg",
-  "tag": "Heba",
-  "affiliates":["WNOW"],
+  "tag": "heba",
+  "affiliates":["wnow"],
   "propTypes": {
     "title": "PropTypes.string",
     "layout": "PropTypes.string"
