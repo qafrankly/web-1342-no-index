@@ -12,9 +12,9 @@
     "title": "Test-heba",
     "titleColor": "#FFC300",
     "backgroundColor": "white",
-    "layout": "hero",
+    "layout": "list",
     "numberOfItems": 7,
-    "textColor": "black",
+    "textColor": "green",
     "heroImageBackgroundColor": "#2980b9",
     "thumbnailAlignment": "left"
   },
